@@ -1,6 +1,6 @@
-drowning:br
+Drowning: Afogando-se em Problemas
 ========
 
-A brasilian portuguese version for Drowning in Problems.
-
 Versão em português para o jogo Drowning in Problems.
+
+Versão original: http://game.notch.net/drowning/
