@@ -1,0 +1,23 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: monospace;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+  color: #333;
+  width:700px;
+}
+
+#equipment {
+  float:right;
+}
+
+.cost {
+  color: #f33;
+}
+
+.award {
+  color: #383;
+}
