@@ -3623,7 +3623,7 @@ z.xy=!1
 z.ED("Memória")
 C.Nm.aN(v,0,"moveon")
 x.push("Amigo")
-x=new O.it("moveon","Você precisa se mudar.",P.xC(0,0,0,0,0,2),H.VM([],[J.O]),H.VM([],[J.O]),null,!1,!1,null,!1,!1,H.B7([],P.L5(null,null,null,null,null)),H.B7([],P.L5(null,null,null,null,null)),!0,[])
+x=new O.it("moveon","Você precisa seguir em frente.",P.xC(0,0,0,0,0,2),H.VM([],[J.O]),H.VM([],[J.O]),null,!1,!1,null,!1,!1,H.B7([],P.L5(null,null,null,null,null)),H.B7([],P.L5(null,null,null,null,null)),!0,[])
 $.mu().u(0,"moveon",x)
 x.ZJ("Amigo")
 x.ED("Experiência")
